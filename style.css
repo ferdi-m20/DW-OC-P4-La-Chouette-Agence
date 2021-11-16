@@ -1094,7 +1094,7 @@ i{
     line-height: 3;
 }
 .link-color:hover{
-    color: rgb(243, 151, 108)!important;
+    color: rgb(209, 65, 75)!important;
     text-shadow : none;
 }
 @media (max-width: 400px) {
