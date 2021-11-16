@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ferdi-m20.github.io/BLANCHARTFerdinand_4_04112021/sitemap.xml
