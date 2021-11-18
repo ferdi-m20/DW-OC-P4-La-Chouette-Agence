@@ -260,7 +260,7 @@ a:hover {
 }
 
 .l-bloc .navbar-toggle .icon-bar {
-    color: black;
+    color: rgba(0, 0, 0, .6);
 }
 
 .d-bloc .panel .btn-wire,
